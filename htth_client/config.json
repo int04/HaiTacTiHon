@@ -1,0 +1,29 @@
+{
+    "name" : "One piece",
+    "version" : "0.0.1",
+    "server" : "127.0.0.1:2004",
+    "srcSheet" : ["dam"],
+    "font" : {
+    "PatrickHandSCRegular" : "PatrickHandSC-Regular", 
+    "CherryBombOne-Regular" : "",
+    "PottaOne-Regular" : "", 
+    "fontchinh" : "Coiny-Regular", 
+    "chelthm" : "unicode.chelthm", 
+    "staccato" : "",
+    "Itim-Regular" : "",
+    "Calistoga" : ""
+},
+    "time" : 0,
+    "debug" : false,
+    "login" : false,
+    "nameDEV" : "int04",
+    "created_at" : "07/08/2022",
+    "about" : {
+        "name" : "One piece game",
+        "platform" : ["Android", "IOS", "Web"],
+        "type" : "HTML5",
+        "version" : "Callback Version",
+        "versionCode" : "0.0.1"
+    }
+}
+

@@ -1,0 +1,17 @@
+
+|javascript:S3776
+"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(áùë¿ıÿÿÿÿ8²õÈ‡¿1
+|javascript:S3776#"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(©´¬ñùÿÿÿÿ8²õÈ‡¿1
+hjavascript:S6660²"?'If' statement should not be the only statement in 'else' block(øÛ”öüÿÿÿÿ8´õÈ‡¿1
+javascript:S6582à"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(Ş¶¢Ê8µõÈ‡¿1
+}javascript:S3776í"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(ÛğÚ¢ûÿÿÿÿ8µõÈ‡¿1
+_javascript:S3800í"6Refactor this function to always return the same type.(ÛğÚ¢ûÿÿÿÿ8µõÈ‡¿1
+}javascript:S3776Õ"TRefactor this function to reduce its Cognitive Complexity from 62 to the 15 allowed.(÷ú˜úÿÿÿÿ8µõÈ‡¿1
+yjavascript:S3776¿"URefactor this function to reduce its Cognitive Complexity from 106 to the 15 allowed.(Å³ûÜ8¶õÈ‡¿1
+Bjavascript:S125É"Remove this commented out code.(–±Ù8¶õÈ‡¿1
+„javascript:S6582£"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(…ˆı¡ıÿÿÿÿ8¶õÈ‡¿1
+Yjavascript:S1481Õ"5Remove the declaration of the unused 'time' variable.(ÑÈ”õ8¶õÈ‡¿1
+Vjavascript:S1854Õ"2Remove this useless assignment to variable "time".(ÑÈ”õ8¶õÈ‡¿1
+Kjavascript:S6557ë"'Use 'String#startsWith' method instead.(Ş€›Â8¶õÈ‡¿1
+}javascript:S3776"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(±šæÇşÿÿÿÿ8·õÈ‡¿1
+9javascript:S108¿"Empty block statement.(å¥‡8·õÈ‡¿1

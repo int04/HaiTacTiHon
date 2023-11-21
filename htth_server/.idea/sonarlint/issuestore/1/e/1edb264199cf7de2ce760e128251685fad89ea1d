@@ -1,0 +1,11 @@
+
+ojavascript:S6544("GPromise returned in function argument where a void return was expected.(áœþ‰ûÿÿÿÿ8ð÷Ë‹¿1
+}javascript:S3776("URefactor this function to reduce its Cognitive Complexity from 170 to the 15 allowed.(áœþ‰ûÿÿÿÿ8ñ÷Ë‹¿1
+Wjavascript:S1481="5Remove the declaration of the unused 'time' variable.(ÑÓ€A8ñ÷Ë‹¿1
+Tjavascript:S1854="2Remove this useless assignment to variable "time".(ÑÓ€A8ñ÷Ë‹¿1
+Jjavascript:S6557S"'Use 'String#startsWith' method instead.(Þ€›Â8ñ÷Ë‹¿1
+Hjavascript:S4140¢"$Unexpected comma in middle of array.(¦Þ·¿8ñ÷Ë‹¿1
+Gjavascript:S2310·"Remove this assignment of "p".(®“„Áüÿÿÿÿ8ñ÷Ë‹¿1
+^javascript:S1481‚"5Remove the declaration of the unused 'time' variable.(ÏÃÚ¢ûÿÿÿÿ8ñ÷Ë‹¿1
+[javascript:S1854‚"2Remove this useless assignment to variable "time".(ÏÃÚ¢ûÿÿÿÿ8ñ÷Ë‹¿1
+Bjavascript:S125¨"Remove this commented out code.(ýÚ£‰8ñ÷Ë‹¿1

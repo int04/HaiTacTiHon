@@ -1,0 +1,56 @@
+
+|javascript:S3776"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(±šæÇşÿÿÿÿ8ã„É»1
+8javascript:S108K"Empty block statement.(å¥‡8ê„É»1
+^javascript:S3800S"6Refactor this function to always return the same type.(ëª¬øÿÿÿÿ8ê„É»1
+Yjavascript:S3800^"6Refactor this function to always return the same type.(Æï¦·8ê„É»1
+€javascript:S2703`"]Add the "let", "const" or "var" keyword to this declaration of "soluong" to make it explicit.(ºŸ¼î8ê„É»1
+}javascript:S3776ƒ"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ò­Ñ™ûÿÿÿÿ8î„É»1
+_javascript:S3800ƒ"6Refactor this function to always return the same type.(Ò­Ñ™ûÿÿÿÿ8î„É»1
+xjavascript:S3776µ"TRefactor this function to reduce its Cognitive Complexity from 61 to the 15 allowed.(š™ 8ï„É»1
+Bjavascript:S125¸"Remove this commented out code.(é€ó«8ï„É»1
+~javascript:S3776”"URefactor this function to reduce its Cognitive Complexity from 106 to the 15 allowed.(»ã¬œşÿÿÿÿ8ğ„É»1
+}javascript:S3776€"TRefactor this function to reduce its Cognitive Complexity from 75 to the 15 allowed.(™´ìäøÿÿÿÿ8ğ„É»1
+javascript:S6582À"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(íÍ¾‹8ğ„É»1
+javascript:S6582¬"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(íÍ¾‹8ğ„É»1
+Tjavascript:S1854§"0Remove this useless assignment to variable "my".(¨™ª©8ğ„É»1
+|javascript:S3699§"XRemove this use of the output from "update_done"; "update_done" doesn't return anything.(¨™ª©8ğ„É»1
+Rjavascript:S3504İ")Unexpected var, use let or const instead.(ÒäÆâüÿÿÿÿ8ñ„É»1
+Mjavascript:S3504Ş")Unexpected var, use let or const instead.(µŒÕ½8ñ„É»1
+xjavascript:S5843•"TSimplify this regular expression to reduce its complexity from 34 to the 20 allowed.(Âû³†8ñ„É»1
+Ejavascript:S6535•"!Unnecessary escape character: \[.(Âû³†8ñ„É»1
+Ejavascript:S6535•"!Unnecessary escape character: \[.(Âû³†8ñ„É»1
+_javascript:S6353•";Use concise character class syntax '\d' instead of '[0-9]'.(Âû³†8ñ„É»1
+_javascript:S6353•";Use concise character class syntax '\d' instead of '[0-9]'.(Âû³†8ñ„É»1
+_javascript:S6353•";Use concise character class syntax '\d' instead of '[0-9]'.(Âû³†8ñ„É»1
+_javascript:S6353•";Use concise character class syntax '\d' instead of '[0-9]'.(Âû³†8ñ„É»1
+Yjavascript:S6397™"5Replace this character class by the character itself.(’„”Ö8ñ„É»1
+Ejavascript:S6535™"!Unnecessary escape character: \+.(’„”Ö8ñ„É»1
+_javascript:S6353™";Use concise character class syntax '\d' instead of '[0-9]'.(’„”Ö8ñ„É»1
+Yjavascript:S6397™"5Replace this character class by the character itself.(’„”Ö8ñ„É»1
+_javascript:S6353™";Use concise character class syntax '\d' instead of '[0-9]'.(’„”Ö8ò„É»1
+^javascript:S6397"5Replace this character class by the character itself.(şíæÀÿÿÿÿÿ8ò„É»1
+Jjavascript:S6535"!Unnecessary escape character: \+.(şíæÀÿÿÿÿÿ8ò„É»1
+djavascript:S6353";Use concise character class syntax '\d' instead of '[0-9]'.(şíæÀÿÿÿÿÿ8ò„É»1
+^javascript:S6397"5Replace this character class by the character itself.(şíæÀÿÿÿÿÿ8ò„É»1
+Mjavascript:S3504¨")Unexpected var, use let or const instead.(àËÜ¹8ò„É»1
+{javascript:S2392º"WConsider moving declaration of 'o' as it is referenced outside current binding context.(•´û±8ò„É»1
+_javascript:S6353º";Use concise character class syntax '\d' instead of '[0-9]'.(•´û±8ò„É»1
+>javascript:S6509Ç"Redundant double negation.(î¡Î£8ò„É»1
+Wjavascript:S1854Ó"4Remove this useless assignment to variable "number".(¶ä“.8ò„É»1
+[javascript:S1121Ó"8Extract the assignment of "number" from this expression.(¶ä“.8ó„É»1
+Ijavascript:S878Ô"!Unexpected use of comma operator.(¨„¦ıÿÿÿÿ8ó„É»1
+Rjavascript:S3504")Unexpected var, use let or const instead.(›÷†¿úÿÿÿÿ8ó„É»1
+djavascript:S6353";Use concise character class syntax '\d' instead of '[0-9]'.(›÷†¿úÿÿÿÿ8ó„É»1
+Mjavascript:S3504")Unexpected var, use let or const instead.(Ï®Ú8ó„É»1
+Rjavascript:S3504Ÿ")Unexpected var, use let or const instead.(šÕ¿Èûÿÿÿÿ8ó„É»1
+Rjavascript:S3504 ")Unexpected var, use let or const instead.(İ¤Óòşÿÿÿÿ8ó„É»1
+Mjavascript:S3504¡")Unexpected var, use let or const instead.(™Ô¢‘8ó„É»1
+Rjavascript:S3504¢")Unexpected var, use let or const instead.(‚£Å˜üÿÿÿÿ8ó„É»1
+Mjavascript:S3504Ã")Unexpected var, use let or const instead.(ÚÇ£Å8ó„É»1
+Rjavascript:S3504Î")Unexpected var, use let or const instead.(ó‚£şşÿÿÿÿ8ó„É»1
+Mjavascript:S3504Ï")Unexpected var, use let or const instead.(Ô¡ãË8ô„É»1
+Rjavascript:S3504Ğ")Unexpected var, use let or const instead.(¥Ÿ¥ úÿÿÿÿ8ô„É»1
+Rjavascript:S3504Ñ")Unexpected var, use let or const instead.(ı¥®¸ùÿÿÿÿ8ô„É»1
+Rjavascript:S3504Ò")Unexpected var, use let or const instead.(ÏÔùğıÿÿÿÿ8ô„É»1
+Mjavascript:S3504Ó")Unexpected var, use let or const instead.(Ÿğœ§8ô„É»1
+Rjavascript:S3504Ô")Unexpected var, use let or const instead.(õ¸ı«ùÿÿÿÿ8ô„É»1

@@ -1,0 +1,74 @@
+{
+  "name": "TaiXiu",
+  "version": "0.0.1",
+  "description": "Server game by ducnghia",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@msgpack/msgpack": "^2.8.0",
+    "@socket.io/cluster-adapter": "^0.2.2",
+    "@socket.io/redis-streams-adapter": "^0.1.0",
+    "@socket.io/sticky": "^1.0.3",
+    "bcrypt": "^5.0.1",
+    "bluebird": "^3.7.2",
+    "bson": "^4.4.0",
+    "cache": "^3.0.0",
+    "cluster": "^0.7.7",
+    "component-emitter": "^1.3.0",
+    "cors": "^2.8.5",
+    "cron": "^1.8.2",
+    "dotenv": "^8.6.0",
+    "express": "^4.18.2",
+    "express-ws": "^4.0.0",
+    "find-replace": "^5.0.0",
+    "fs": "^0.0.1-security",
+    "htmlspecialchars": "^1.0.5",
+    "imgur": "^2.0.0-next.5",
+    "ioredis": "^5.3.2",
+    "ipware": "^2.0.0",
+    "json-encrypt-decrypt": "^1.0.4",
+    "jsonpack": "^1.1.5",
+    "md5": "^2.3.0",
+    "mongoose": "^7.4.2",
+    "mongoose-long": "^0.7.0",
+    "msgpack-lite": "^0.1.26",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.2.5",
+    "nacl-encrypt": "^1.0.2",
+    "nodejs-captcha": "^0.0.6",
+    "os": "^0.1.2",
+    "recluster": "^1.0.0",
+    "redis": "^4.6.7",
+    "request": "^2.88.2",
+    "socket.io": "^4.7.1",
+    "socket.io-client": "^4.6.1",
+    "socket.io-msgpack-parser": "^3.0.2",
+    "socket.io-parser": "^4.2.4",
+    "socket.io-stream": "^0.9.1",
+    "sticky-session": "^1.1.2",
+    "tiny-msgpack": "^2.0.2",
+    "validator": "^13.11.0",
+    "zlib": "^1.0.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22",
+    "webpack-cli": "^5.1.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trandoducnghia/taixiu.git"
+  },
+  "homepage": "https://github.com/trandoducnghia/taixiu",
+  "bugs": {
+    "url": "https://github.com/trandoducnghia/taixiu/issues"
+  },
+  "author": {
+    "name": "Tran Do Duc Nghia",
+    "email": "trandoducnghia@gmail.com",
+    "url": "https://github.com/trandoducnghia"
+  },
+  "license": "ISC"
+}
