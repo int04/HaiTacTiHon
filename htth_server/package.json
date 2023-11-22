@@ -1,7 +1,7 @@
 {
-  "name": "TaiXiu",
+  "name": "HaiTacTihon",
   "version": "0.0.1",
-  "description": "Server game by ducnghia",
+  "description": "Server game by int04",
   "main": "server.js",
   "scripts": {
     "start": "nodemon server.js",
@@ -57,18 +57,6 @@
     "nodemon": "^2.0.22",
     "webpack-cli": "^5.1.4"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/trandoducnghia/taixiu.git"
-  },
-  "homepage": "https://github.com/trandoducnghia/taixiu",
-  "bugs": {
-    "url": "https://github.com/trandoducnghia/taixiu/issues"
-  },
-  "author": {
-    "name": "Tran Do Duc Nghia",
-    "email": "trandoducnghia@gmail.com",
-    "url": "https://github.com/trandoducnghia"
-  },
+
   "license": "ISC"
 }
